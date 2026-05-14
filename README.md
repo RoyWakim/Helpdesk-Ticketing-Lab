@@ -27,7 +27,7 @@ Full 75-slide walkthrough available in the file above.
 
 ## Related Project
 This lab builds on my Active Directory Homelab:
-https://github.com/YourUsername/AD-Helpdesk-Homelab
+https://github.com/RoyWakim/AD-Helpdesk-Homelab
 
 ## Author
 Roy Wakim
